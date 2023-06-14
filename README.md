@@ -276,3 +276,8 @@ bash <(curl -s https://raw.githubusercontent.com/Yidadaa/ChatGPT-Next-Web/main/s
 ## LICENSE
 
 [Anti 996 License](https://github.com/kattgu7/Anti-996-License/blob/master/LICENSE_CN_EN)
+
+
+update: 为了同步源仓库修改，master不做修改。 所有开发从dev开发&&vercel绑定dev分支。
+1. 隐藏github链接。
+2. 修改标题等。
